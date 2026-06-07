@@ -1,0 +1,8 @@
+{
+  "name": "Trianah",
+  "description": "Trianah – The AI Digital Life Operating System unifies your communication hub, personal assistant, business intelligence, digital twin, and opportunity engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
